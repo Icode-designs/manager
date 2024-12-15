@@ -1,0 +1,7 @@
+@use "config" as var;
+@use "resets";
+
+@function rem($size) {
+  $remSize: calc($size / 16);
+  @return #{$remSize}rem;
+}
