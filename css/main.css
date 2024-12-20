@@ -408,7 +408,8 @@ footer .attribution a:active {
     width: 9.1875rem;
     padding-top: 0.625rem;
   }
-  header .btn--open {
+  header .btn--open,
+  header .btn--close {
     display: none;
   }
   header .nav__menu {
@@ -583,7 +584,8 @@ footer .attribution a:active {
     width: 9.1875rem;
     padding-top: 0.625rem;
   }
-  header .btn--open {
+  header .btn--open,
+  header .btn--close {
     display: none;
   }
   header .nav__menu {
@@ -759,7 +761,8 @@ footer .attribution a:active {
     width: 9.1875rem;
     padding-top: 0.625rem;
   }
-  header .btn--open {
+  header .btn--open,
+  header .btn--close {
     display: none;
   }
   header .nav__menu {
